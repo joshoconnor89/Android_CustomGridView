@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/joshuaoconnor/AndroidStudioProjects/CustomGridViewWithPictures/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-b1d68139b356256eea7f196692af0e0e47aeeb67.jar"
+        jar="/Users/joshuaoconnor/Documents/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+
+</pre-dex-items>
